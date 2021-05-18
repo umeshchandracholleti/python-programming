@@ -1,0 +1,9 @@
+thisdict = {
+  "brand": "audi",
+  "model": "Altok10",
+  "year": 2000
+}
+
+x = thisdict.keys()
+
+print(x)
