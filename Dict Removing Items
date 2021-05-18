@@ -1,0 +1,7 @@
+thisdict =	{
+  "brand": "altok10",
+  "model": "audi",
+  "year": 5869
+}
+thisdict.pop("model")
+print(thisdict)
