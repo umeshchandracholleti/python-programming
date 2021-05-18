@@ -1,7 +1,7 @@
 thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
+  "brand": "asdf",
+  "model": "sghjkl",
+  "year": 7558
 }
 mydict = thisdict.copy()
 print(mydict)
