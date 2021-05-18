@@ -1,0 +1,8 @@
+thisdict = {
+  "brand": "mersecedes",
+  "model": "bugatii",
+  "year": 2000
+}
+thisdict.update({"year": 2020})
+
+print(thisdict)
