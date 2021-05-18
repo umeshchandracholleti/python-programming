@@ -1,0 +1,13 @@
+car = {
+"brand": "audi",
+"model": "altok10",
+"year": 2000
+}
+
+x = car.keys()
+
+print(x) #before the change
+
+car["color"] = "blue"
+
+print(x) #after the change
