@@ -1,0 +1,9 @@
+def fun3(x,y):
+  k=x*y
+  print(k)
+  return
+i=input("Enter the 1st #")
+j=input("Enter 2nd #")
+m=int(i)
+n=int(j)
+fun3(m,n)
