@@ -1,0 +1,5 @@
+def fun3(x,y):
+  k=x*y
+  print(k)
+  return
+fun3(3,4)
