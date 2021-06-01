@@ -1,0 +1,4 @@
+cars = ["abcds", "jkliop", "mkdodp"]
+
+for x in cars:
+  print(x)
