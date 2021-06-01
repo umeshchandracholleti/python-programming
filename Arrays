@@ -3,3 +3,9 @@ cars = ["alto", "benze", "lamborgini"]
 x = len(cars)
 
 print(x)
+
+
+cars.pop(1) #for pop
+
+
+cars.remove("bgrg")#for remove
