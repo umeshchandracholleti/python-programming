@@ -1,0 +1,5 @@
+cars = ["alto", "benze", "lamborgini"]
+
+x = len(cars)
+
+print(x)
