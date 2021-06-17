@@ -1,0 +1,6 @@
+1 . strings                 #    ("umesh chandra cholleti ")                               mutable
+2 . lists                   #    ['umesh',1,99.9969,a]                                     mutable
+3 . tuple                   #    ('umesh','elonmusk','father','software engineer')         immutable
+4 . sets                    #    {1,2,3,4,5,6}                                             mutable
+5 . Dictionary              #    {'name' : 'umesh' }                                       mutable 
+6 . Numbers                 #    a=10                                                      constant
