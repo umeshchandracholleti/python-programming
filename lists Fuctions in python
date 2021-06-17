@@ -1,0 +1,12 @@
+SNO     types             code                      example
+ 
+1  .    append()        u.append(5)                  u=['umesh',5,'a','S',5,'pop','sundhar pichai','elon musk','gandhi']
+2  .    clear()         u.clear(5)  
+3  .    count()         u.count(a)
+4  .    extend()        u.extend(s)
+5  .    index()         u1=u.index('5')
+6  .    insert()        u.insert('S')
+7  .    pop()           u.pop('umesh')
+8  .    remove()        u.remove('pop')
+9  .    reverse()       u.reverse()
+10 .    sort()          u.sort()
