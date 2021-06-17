@@ -1,0 +1,62 @@
+1 . while loop
+2 . for loop
+
+                                  #while loop
+                          
+1 .   code for while loop :          
+                                 count = 0
+                                 while (count < 89):
+                                        print("Alexa,Hello Gud mrng")
+                                        count = count + 1
+                                 else:
+                                        print("The Number is greater than 89")
+                        
+
+
+                                 # for loop
+                                 
+2 . code for for loop  :          
+                                #iterating over a list
+                                print(" List Iteration)
+                                l = ['software','python','life']
+                                for i in 1:
+                                      print(i)
+                                      
+                                     
+3 . # Iterating over a tuple (immutable)
+
+                                print("\nTuple Iteration")
+                                t = ("umesh","python","life")
+                                for i in t:
+                                print(i)
+          
+4 . # Iterating over a String
+
+                          print("\nString Iteration")
+                          s = "Umesh Chandra Cholleti"
+                          for i in s:
+                               print(i)
+                         
+                         OutPut: String Iteration           -> no \n u m e s h C h a n d r a C h o l l e t i
+                         
+
+5 . # Iterating over a range 0 to n-1
+
+code :
+
+n = 999
+for i in range(0,n):
+   print(i)
+   
+   
+  6 . Combining Elswe with for 
+  
+  code:
+  
+  list1 = ["Umesh","Python","is","my","Life"]
+  for index in range(len(list1)):
+      print(list[index])
+   else:
+      print("Inside Else Block")
+  
+                                                
