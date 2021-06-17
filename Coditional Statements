@@ -1,0 +1,66 @@
+types of Coditional statements in Python language:
+
+   1  .  If     statement 
+   2  .  Elif   statement
+   3  .  else   statement
+   
+   example like we use in coding and programing part in software development :
+   
+   
+    1 . Equals : a == b
+    2 . not Equals: a != b
+    3 . Less than : a < b
+    4 . greater than: a > b
+    5 . Greater than or equal to: a>=b
+    
+ systax ;
+ if condition:
+    # execute these statements 
+      else:
+    # execute these statements 
+    
+    
+@code for if condition :
+
+a = 500
+b = 999 
+if b > a:
+   print("b is greater than a")
+elif a == b:
+   print("a and b are equal")
+else:
+   print(" a is greater than b")
+   
+   
+ @code for AND logic operator in python:
+ 
+ a = 969
+ b = 859
+ c = 753
+ if a > b and c >a:                                  # AND  TT FF TF FT
+   print("Both conditions are True ")
+ else:
+    print("It is not true")
+    
+@code for OR logic operator in python:    
+ a = 969
+ b = 859
+ c = 753
+ if a > b or c >a:                                  # OR  TT FF TF FT
+   print("Both conditions are True ")
+ else:
+    print("It is not true")
+    
+    
+    
+@code PASS   # avoiding ERROR keyword.
+
+a = 522
+b = 789
+if b > a:
+   pass            #keyword
+
+   
+   
+   
+   
