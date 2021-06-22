@@ -1,0 +1,23 @@
+tuple methods
+
+
+
+1 . len(tuple)
+2 . max(tuple)
+3 . min(tuple)
+4 . Sum()
+5 . Sorted()
+6 . tuple()//Convert an iterable to tuple.
+
+
+
+@Code for tuple 
+
+
+#Creating  A TUPLE
+
+Tuple1 = ()
+print("Initiall empty Tuple: ")
+s = type(Tuple1)
+print(s)
+
